@@ -10,3 +10,4 @@ If you want to add any optimization or spot a bug, feel free to raise a pull req
 * [Repetitions](Repetitions) : [Solution](./Introductory_Problems/Repetitions.cpp)
 * [Increasing Array](https://cses.fi/problemset/task/1094) : [Solution](./Introductory_Problems/Increasing_Array.cpp)
 * [Permutations](https://cses.fi/problemset/task/1070/) : [Solution](./Introductory_Problems/Permutations.cpp)
+* [Bit Strings](https://cses.fi/problemset/task/1617/) : [Solution](./Introductory_Problems/Bit_Strings.cpp)
