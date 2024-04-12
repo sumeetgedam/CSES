@@ -9,3 +9,4 @@ If you want to add any optimization or spot a bug, feel free to raise a pull req
 * [Missing Number](https://cses.fi/problemset/task/1083) : [Solution](./Introductory_Problems/Missing_Number.cpp)
 * [Repetitions](Repetitions) : [Solution](./Introductory_Problems/Repetitions.cpp)
 * [Increasing Array](https://cses.fi/problemset/task/1094) : [Solution](./Introductory_Problems/Increasing_Array.cpp)
+* [Permutations](https://cses.fi/problemset/task/1070/) : [Solution](./Introductory_Problems/Permutations.cpp)
