@@ -21,3 +21,10 @@ If you want to add any optimization or spot a bug, feel free to raise a pull req
 | [Gray Code](https://cses.fi/problemset/task/2205/) | [Solution](./Introductory_Problems/Gray_Code.cpp) |
 | [Tower of Hanoi](https://cses.fi/problemset/task/2165/)  | [Solution](./Introductory_Problems/Tower_of_Hanoi.cpp) |
 | [Chessboard and Queens](https://cses.fi/problemset/task/1624/) |  [Solution](./Introductory_Problems/Chessboard_and_Queens.cpp) |
+
+
+### Sorting and Searching
+
+| Problem Link | My Solution |
+| :------------ | :-----------: |
+| [Distinct Numbers](https://cses.fi/problemset/task/1621/) | [Solution](./Sorting_and_Searching/Distinct_Numbers.cpp) |
