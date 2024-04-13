@@ -3,7 +3,7 @@
 Solutions for [CSES problem set](https://cses.fi/problemset/) \
 If you want to add any optimization or spot a bug, feel free to raise a pull request.
 
-### Introductory Problems :
+### Introductory Problems
 
 | Problem Link | My Solution |
 | :------------ | :-----------: |
@@ -28,3 +28,6 @@ If you want to add any optimization or spot a bug, feel free to raise a pull req
 | Problem Link | My Solution |
 | :------------ | :-----------: |
 | [Distinct Numbers](https://cses.fi/problemset/task/1621/) | [Solution](./Sorting_and_Searching/Distinct_Numbers.cpp) |
+| [Apartments](https://cses.fi/problemset/task/1084/) | [Solution](./Sorting_and_Searching/Apartments.cpp) |
+| [Sum of Two Values](https://cses.fi/problemset/result/9002551/) | [Solution](./Sorting_and_Searching/Sum_of_Two_Values.cpp) |
+| [Maximum Subarray Sum](https://cses.fi/problemset/task/1643/) | [Solution](./Sorting_and_Searching/Maximum_Subarray_Sum.cpp) |
