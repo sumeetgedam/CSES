@@ -32,3 +32,5 @@ If you want to add any optimization or spot a bug, feel free to raise a pull req
 | [Sum of Two Values](https://cses.fi/problemset/result/9002551/) | [Solution](./Sorting_and_Searching/Sum_of_Two_Values.cpp) |
 | [Maximum Subarray Sum](https://cses.fi/problemset/task/1643/) | [Solution](./Sorting_and_Searching/Maximum_Subarray_Sum.cpp) |
 | [Restaurant Customers](https://cses.fi/problemset/task/1619/) | [Solution](./Sorting_and_Searching/Restaurant_Customers.cpp) |
+| [Movie Festival](https://cses.fi/problemset/task/1629/) | [Solution](./Sorting_and_Searching/Movie_Festival.cpp) |
+| [Towers](https://cses.fi/problemset/task/1073/) | [Solution](./Sorting_and_Searching/Towers.cpp) |
