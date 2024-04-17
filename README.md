@@ -34,3 +34,4 @@ If you want to add any optimization or spot a bug, feel free to raise a pull req
 | [Restaurant Customers](https://cses.fi/problemset/task/1619/) | [Solution](./Sorting_and_Searching/Restaurant_Customers.cpp) |
 | [Movie Festival](https://cses.fi/problemset/task/1629/) | [Solution](./Sorting_and_Searching/Movie_Festival.cpp) |
 | [Towers](https://cses.fi/problemset/task/1073/) | [Solution](./Sorting_and_Searching/Towers.cpp) |
+| [Playlist](https://cses.fi/problemset/task/1141) | [Solution](./Sorting_and_Searching/Playlist.cpp) |
