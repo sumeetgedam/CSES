@@ -35,3 +35,5 @@ If you want to add any optimization or spot a bug, feel free to raise a pull req
 | [Movie Festival](https://cses.fi/problemset/task/1629/) | [Solution](./Sorting_and_Searching/Movie_Festival.cpp) |
 | [Towers](https://cses.fi/problemset/task/1073/) | [Solution](./Sorting_and_Searching/Towers.cpp) |
 | [Playlist](https://cses.fi/problemset/task/1141) | [Solution](./Sorting_and_Searching/Playlist.cpp) |
+| [Collecting Numbers](https://cses.fi/problemset/task/2216/) | [Solution](./Sorting_and_Searching/Collecting_Numbers.cpp) |
+| [Missing Coin Sum](https://cses.fi/problemset/result/9035118/) | [Solution](./Sorting_and_Searching/Missing_Coin_Sum.cpp) |
