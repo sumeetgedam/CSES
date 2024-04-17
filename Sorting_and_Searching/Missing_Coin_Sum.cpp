@@ -42,7 +42,7 @@ bool comp(pair<char, int> a, pair<char, int> b){
 void solve()
 {	
 
-	
+	// https://cses.fi/problemset/result/9035118/
 	int n; cin >> n;
 	ll ans=  0;
 	vector<int> num(n); cin >> num;
