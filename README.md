@@ -37,3 +37,11 @@ If you want to add any optimization or spot a bug, feel free to raise a pull req
 | [Playlist](https://cses.fi/problemset/task/1141) | [Solution](./Sorting_and_Searching/Playlist.cpp) |
 | [Collecting Numbers](https://cses.fi/problemset/task/2216/) | [Solution](./Sorting_and_Searching/Collecting_Numbers.cpp) |
 | [Missing Coin Sum](https://cses.fi/problemset/result/9035118/) | [Solution](./Sorting_and_Searching/Missing_Coin_Sum.cpp) |
+
+
+### Dynamic Programming
+
+| Problem Link | My Solution |
+| :------------ | :-----------: |
+| [Dice Combinations](https://cses.fi/problemset/task/1633/) | [Solution](./Dynamic_Programming/Dice_Combinations.cpp) |
+| [Minimizing Coins](https://cses.fi/problemset/task/1634/) | [Solution](./Dynamic_Programming/Minimizing_Coins.cpp) |
