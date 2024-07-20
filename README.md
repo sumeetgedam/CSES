@@ -45,3 +45,5 @@ If you want to add any optimization or spot a bug, feel free to raise a pull req
 | :------------ | :-----------: |
 | [Dice Combinations](https://cses.fi/problemset/task/1633/) | [Solution](./Dynamic_Programming/Dice_Combinations.cpp) |
 | [Minimizing Coins](https://cses.fi/problemset/task/1634/) | [Solution](./Dynamic_Programming/Minimizing_Coins.cpp) |
+| [Coin Combinations I](https://cses.fi/problemset/task/1635/) | [Solution](./Dynamic_Programming/Coin_Combinations_I.cpp) |
+| [Coin Combinations II](https://cses.fi/problemset/task/1636/) | [Solution](./Dynamic_Programming/Coin_Combinations_II.cpp) |
